@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dipointent
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me i dont know
+- 👀 I’m interested in Stranger Things and Music.
+- 🌱 I’m currently learning web dev and Java.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me: Discord:Dipointent#4272
 
 <!---
 Dipointent/Dipointent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
